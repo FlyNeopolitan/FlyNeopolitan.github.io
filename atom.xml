@@ -38,6 +38,34 @@
   </entry>
   
   <entry>
+    <title>Why CS61B So incredible?</title>
+    <link href="https://flyneopolitan.github.io/2020/08/21/61b/"/>
+    <id>https://flyneopolitan.github.io/2020/08/21/61b/</id>
+    <published>2020-08-21T11:22:05.000Z</published>
+    <updated>2020-08-21T11:22:59.515Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是8月21日，我从6月20日开始学习CS61B, 中间因为期末断了8天，今天完成了这门课(除了proj3的部分内容)。<br>Berkeley的这门课非常有名，特别是对转专业的朋友来说，往往是他们的首选，在我眼里，几乎每个与computer science有关的人都在推荐这门课。我在上这门课之前有些怀疑，这门课只是Berkeley大一学生的一门入门课，真的有传说中这么棒吗？直到自己接触了大半，才打消了疑惑，发出了“要是我高三毕业那个暑假就看了这门课我也不至于这么菜”的感叹。</p><p>这门课相当于数据结构与算法，由三个部分组成，第一部分用四周介绍Java（大概相当于我们C++课整门课的内容，笑)，然后假期，第二部分用五周介绍数据结构，然后春假，第三部分用五周介绍算法以及一些高维的有趣东西。其中每周的内容基本上包括3个lecture，2个lab，2个discussion和1个project/hw。这样的结构使得这门课没有任何门槛，内容也非常丰富，难怪是转码的不二之选。</p><p>这门课的优点非常多，但是它最厉害的还是它的课程设计:它的设计非常好，将一切都连贯地串了起来，你将从无到有搭建和联系一切，而且你会深深体会到课中一直在强调的、计算机科学的设计思想。</p><p>这门课有许多优点:</p><ol><li><p>project/lab很有趣，和工业界、科研界都有一定的联系。举例而言，19sp的project bearMap就是被Alan(TA)在Google Map 团队时的工作启发而设计的。</p></li><li><p>学生和教师一起促进这门课改进与完善。举例而言，第一点中的Alan在当时就是Berkeley的本科生；这门课的TA非常多（应该有三位数），许多都是学生；这门课许多project/lab/hw的test或是autograder都是学生写的。在这门课结束的时候，会专门考虑如何改进这门课，举例而言，19sp相比18fall就调整了proj2的结构、加了software engineering的内容等。</p></li><li><p>Lecture短小精悍(一次50分钟,每周三次)，完全不是念ppt，josh hug也是非常有意思，引人入胜，比昏昏沉沉连续上两个多小时不知道高到哪里去了。</p></li><li><p>难度恰到好处。大神不会觉得无聊，新手也不会觉得难如登天，即使做的东西很cool，但难度并没有爆炸。对不满足的学生来说，还有一些难度不小的问题(有些问题在不远的过去解决还发了论文)。可以说，基本上所有人的需求都被考虑到了。(对我来说，基本上题目难度就是卡在再难一点就做不出的程度，让我感觉非常神奇</p></li><li><p>非常贴心。每个lecture都有对应的guide，精简地总结了lecture的内容（不需要自己写笔记总结了）；在lab/proj/hw里会有些通常学生会遇到的问题，也都在FAQs里写下来了。有些很难的proj还会有介绍视频。</p></li><li><p>覆盖面非常广。这门课与其他课的联系非常紧密，在这门课中josh介绍了许多其他课会深入讨论的内容：比如compiler，比如P=NP问题，比如compression……这门课也有对cs research介绍性的lab、让学生体会how it feels programming in the real world的project。可以感觉到，josh在努力激发学生学习整个计算机科学体系的兴趣。</p></li><li><p>这门课非常有意义。这门课并不只着眼于学习数据结构和算法的技术，更注重计算机科学的基本思想、思考方式与事物的内在联系，这也是我推荐非计算机科学方向、想了解一下CS的朋友学习这门课的原因。</p></li></ol><p>这门课让我深深体会到设计好一门质量极高的课有多么难，也让我对国内课程的现状多了一分理解。总之，不管你只是对编程好奇，还是想了解计算机科学的基本思想，这都是我大力推荐的一门课。</p><p>现在就是很后悔，浪费了太多时间，要补的东西太多了….接下来不知道要看完61A还是搞定CSAPP…or MIT6.031？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;今天是8月21日，我从6月20日开始学习CS61B, 中间因为期末断了8天，今天完成了这门课(除了proj3的部分内容)。&lt;br&gt;Berkeley的这门课非常有名，特别是对转专业的朋友来说，往往是他们的首选，在我眼里，几乎每个与computer science有关的人都在推</summary>
+      
+    
+    
+    
+    <category term="CS61B" scheme="https://flyneopolitan.github.io/categories/CS61B/"/>
+    
+    
+    <category term="CS61B" scheme="https://flyneopolitan.github.io/tags/CS61B/"/>
+    
+    <category term="CS" scheme="https://flyneopolitan.github.io/tags/CS/"/>
+    
+    <category term="Data Structures" scheme="https://flyneopolitan.github.io/tags/Data-Structures/"/>
+    
+  </entry>
+  
+  <entry>
     <title>认识大学</title>
     <link href="https://flyneopolitan.github.io/2020/08/15/learnU/"/>
     <id>https://flyneopolitan.github.io/2020/08/15/learnU/</id>
